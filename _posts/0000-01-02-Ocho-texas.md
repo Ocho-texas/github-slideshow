@@ -4,7 +4,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "This may be a small step, but a step forward."
 
 ---
 
